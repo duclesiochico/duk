@@ -20,7 +20,7 @@ html{
 
 body{
     padding-left: 30rem;
-    background: rgb(232, 232, 232);
+    background: rgb(255, 253, 248);
 }
 
 section{
@@ -201,7 +201,7 @@ header .follow a:hover{
 
 .home .content .hi{
     font-size: 2rem;
-    color: orange;
+    color: rgb(153, 100, 0);
 }
 
 .home .content h3{
@@ -211,7 +211,7 @@ header .follow a:hover{
 }
 
 .home .content h3 span{
-    color: orange;
+    color: rgb(146, 95, 0);
     text-transform: uppercase; 
 }
 
@@ -276,7 +276,7 @@ header .follow a:hover{
 }
 
 .about .row-1 .content .box-container .box span{
-    color: orange;
+    color: rgb(172, 112, 0);
 }
 
 .about .row-2{
@@ -313,7 +313,7 @@ header .follow a:hover{
 .about .row-2 .skills .progress .bar span{
     display: block;
     height: 100%;
-    background: orange;
+    background: rgb(170, 111, 0);
 }
 
 .about .row-2 .skills .progress:nth-child(1) .bar span{
@@ -349,7 +349,7 @@ header .follow a:hover{
 }
 
 .about .row-2 .box-container .box h3{
-    color: orange;
+    color: rgb(158, 103, 0);
     font-size: 2.5rem;
 }
 
@@ -383,7 +383,7 @@ header .follow a:hover{
     width: 6rem;
     line-height: 6rem;
     color: #fff;
-    background: orange;
+    background: rgb(165, 107, 0);
     border-radius: 50%;
 }
 
@@ -414,7 +414,7 @@ header .follow a:hover{
 .experience .box-container .box{
     position: relative;
     flex: 1 1 32rem;
-    border-left: .2rem solid orange;
+    border-left: .2rem solid rgb(150, 97, 0);
     padding-left: 2rem;
     padding-right: 2rem;
     padding-bottom: 2rem;
@@ -427,7 +427,7 @@ header .follow a:hover{
     height: 2rem;
     width: 2rem;
     border-radius: 50%;
-    background: orange;
+    background: rgb(163, 106, 0);
 }
 
 .experience .box-container .box .content{
@@ -440,7 +440,7 @@ header .follow a:hover{
 .experience .box-container .box .content span{
     color: #fff;
     font-size: 1.7rem;
-    background: orange;
+    background: rgb(165, 107, 0);
     border-radius: 50rem;
     padding: .4rem 1rem;
 }
@@ -530,7 +530,7 @@ header .follow a:hover{
 }
 
 .portfolio .box-container .box .icons a:hover{
-    background: orange;
+    background: rgb(163, 106, 0);
     color: #fff;
 }
 
@@ -558,7 +558,7 @@ header .follow a:hover{
     width: 5rem;
     line-height: 5rem;
     font-size: 2rem;
-    background: orange;
+    background: rgb(165, 107, 0);
     color: #fff;
     border-radius: 50%;
 }
@@ -608,7 +608,7 @@ header .follow a:hover{
 
 .contact .row form .box:focus,
 .contact .row form textarea:focus{
-    border-color: orange;
+    border-color: rgb(155, 101, 0);
 }
 
 .contact .row form .box::placeholder,
@@ -636,7 +636,7 @@ footer{
 }
 
 footer span a{
-    color: orange;
+    color: rgb(177, 115, 0);
 }
 
 
