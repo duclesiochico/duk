@@ -20,7 +20,7 @@ html{
 
 body{
     padding-left: 30rem;
-    background: rgb(255, 237, 203);
+    background: rgb(232, 232, 232);
 }
 
 section{
@@ -190,7 +190,7 @@ header .follow a:hover{
 
 @media (max-width:451px){
     .home .image{
-        margin-top: -10rem;
+        margin-top: -3rem;
     }
     
 }
